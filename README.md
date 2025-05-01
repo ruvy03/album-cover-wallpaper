@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/e26d1bfa-9c36-4a1a-b08d-4093e92bf0c4
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/DhruvSinha2003/album-art-wallpaper.git
+git clone https://github.com/ruvy03/album-art-wallpaper.git
 ```
 
 2. Install dependencies:
