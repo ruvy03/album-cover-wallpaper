@@ -1,4 +1,4 @@
-# Album Art Wallpaper
+# Album Cover Wallpaper
 
 This application allows users to create custom wallpapers using album art from Spotify. Users can search for album covers, customize the background with solid colors or gradients, and apply shadow effects. The final wallpaper can be downloaded as an image file.
 
