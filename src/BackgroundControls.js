@@ -1,4 +1,3 @@
-// BackgroundControls.js
 import React from "react";
 import { HexColorPicker } from "react-colorful";
 

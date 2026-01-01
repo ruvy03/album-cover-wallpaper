@@ -9,7 +9,6 @@ function App() {
       <GradientProvider>
         <Routes>
           <Route path="/create" element={<Create />} />
-          {/* Add other routes as needed */}
         </Routes>
       </GradientProvider>
     </Router>
